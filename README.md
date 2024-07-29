@@ -18,7 +18,7 @@ To follow this tutorial, you will need a basic understanding of Python and neura
 
 To make it easy for everyone to run and experiment with the model, a Colab notebook is provided. Simply click on the link below to open the notebook in your browser and follow the instructions:
 
-[Open Transformer Model Tutorial in Colab](#link-to-your-colab-notebook)
+[Open Transformer Model Tutorial in Colab](#https://colab.research.google.com/drive/1CzaB1EsZtvJxMtMgsDlN7inPg0FcjnMp?usp=sharing)
 
 ### Clone the Repository
 
